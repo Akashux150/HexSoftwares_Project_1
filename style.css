@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.project-title {
+    color: #00a8cc;
+}
+
+.main-title {
+    color: blue;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
